@@ -1,7 +1,6 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-projects: aoktox/DevOps-learning-path/1
 title: "[REQUEST]"
 labels: enhancement
 assignees: aoktox
